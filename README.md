@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi! I'm Matteo, a teenager who is passionate about coding and exploring the world of IT. My main interests are cybersecurity and backend.
+Hi! I'm Matteo, a teenager who is passionate about coding and exploring the world of IT.
 I'm from Italy, and I'm currently in my third year of high school, studying Information Technology.
 
 # What you have to know in my github directory:
@@ -11,6 +11,6 @@ If you'd like to evaluate my coding skills, please check the **"Projects"** fold
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
 
 
-### What i now a little
+### Work in progress
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
 
